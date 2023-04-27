@@ -3,8 +3,10 @@ body {
   width: 90%;
   margin: auto;
   font-size: 16px;
-  font-family: lora, serif;
-  background-color: #CCCCFF;
+  font-family: "quicksand", sans-serif;
+  font-weight: lighter;
+  color: #000000;
+  background-color: #f6f5f7;
 }
 
 main {
@@ -46,8 +48,18 @@ img {
   min-height: 0.125rem;
 }
 
-h1, h2, h3 {
-  font-family: montserrat, sans-serif;
+h1 {
+  color: #000000;
+  font-family: "quicksand", sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+h2 {
+  color:#000000;
+  font-family: "quicksand" , sans-serif;
+  font-weight: lighter;
+  text-align: center;
 }
 
 
