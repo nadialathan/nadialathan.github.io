@@ -66,7 +66,8 @@ h2 {
 }
 
 #main {
-  padding: 5rem;
+  padding: 1rem;
+  text-align: left;
 }
 
 .col-1,
