@@ -59,9 +59,16 @@ h2 {
   color:#000000;
   font-family: "quicksand" , sans-serif;
   font-weight: lighter;
-  text-align: center;
 }
 
+#header {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+#links {
+  margin: 1rem;
+}
 
 .col-1,
 .col-2,
