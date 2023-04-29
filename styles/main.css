@@ -61,9 +61,15 @@ h1 {
 }
 
 h2 {
-  color:#000000;
+  color: #000000;
   font-family: "quicksand" , sans-serif;
   font-weight: lighter;
+}
+
+.nameDisplay {
+  color: #4a1640;
+  font-weight: 700;
+  font-size: 2rem;
 }
 
 #header {
