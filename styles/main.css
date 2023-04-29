@@ -66,7 +66,14 @@ h2 {
   font-weight: lighter;
 }
 
-h1.nameDisplay {
+h3 {
+  color: #000000;
+  font-family: "quicksand" , sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.nameDisplay {
   color: #4a1640;
   font-weight: 700;
   font-size: 3.5rem;
