@@ -88,6 +88,11 @@ figcaption {
   color: #000000;
 }
 
+.article-title {
+  font-family: "quicksand" , serif;
+  font-weight: 600;
+}
+
 #header {
   padding: 1rem;
   margin: 1rem;
