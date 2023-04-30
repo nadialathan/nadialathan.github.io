@@ -76,9 +76,16 @@ h3 {
 
 .nameDisplay {
   color: #4a1640;
+  font-family: "cormorant garamond" , serif;
   font-weight: 700;
   font-size: 3.5rem;
   font-style: italic;
+}
+
+figcaption {
+  font-family: "cormorant garamond" , serif;
+  font-size: 1rem;
+  color: #000000;
 }
 
 #header {
