@@ -20,7 +20,11 @@ footer {
 }
 
 a {
-  color: #000000;
+  background-color: rgba(136, 60, 130, 0.1);
+  color: #883C82;
+  margin: 0px 2px;
+  padding: 0px 5px;
+  white-space: nowrap;
 }
 
 a:hover {
@@ -75,7 +79,6 @@ h3 {
 
 .nameDisplay {
   color: #4a1640;
-  font-family: "cormorant garamond" , serif;
   font-weight: 700;
   font-size: 3.5rem;
   font-style: italic;
