@@ -20,11 +20,11 @@ footer {
 }
 
 a {
-  color: #5e3075;
+  color: #000000;
 }
 
 a:hover {
-  color: black;
+  color: #5e3075;
 }
 
 .container {
@@ -82,7 +82,7 @@ h3 {
 }
 
 figcaption {
-  font-family: "cormorant garamond" , serif;
+  font-family: "quicksand" , sans-serif;
   font-size: 1rem;
   font-weight: lighter;
   color: #000000;
