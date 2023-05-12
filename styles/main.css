@@ -81,7 +81,6 @@ h2 {
   color: #4a1640;
   font-weight: 700;
   font-size: 3.5rem;
-  font-style: italic;
 }
 
 figcaption {
@@ -98,11 +97,6 @@ figcaption {
 
 #main {
   margin: 0;
-}
-
-.col-6 {
-  background: #e1dee3;
-  border-radius: 15%;
 }
 
 .col-1,
