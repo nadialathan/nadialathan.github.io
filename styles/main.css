@@ -74,6 +74,7 @@ h2 {
   color: #000000;
   font-family: "quicksand" , sans-serif;
   font-weight: 700;
+  text-align: center;
   }
 
 .nameDisplay {
@@ -97,6 +98,10 @@ figcaption {
 
 #main {
   margin: 0;
+}
+
+.col-6 {
+  background: #e1dee3;
 }
 
 .col-1,
