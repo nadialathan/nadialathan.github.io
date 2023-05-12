@@ -53,7 +53,7 @@ img {
 
 h1 {
   color: #000000;
-  font-family: "Fira Code" , Georgia , monospace;
+  font-family: 'Wix Madefor Text', sans-serif;
   font-weight: 700;
   font-size: 3.125rem;
   line-height: 1.2;
@@ -72,7 +72,7 @@ p {
 
 h2 {
   color: #000000;
-  font-family: "Fira Code" , Georgia , monospace;
+  font-family: 'Wix Madefor Text', sans-serif;
   font-weight: lighter;
   text-align: center;
   }
